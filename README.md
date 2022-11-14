@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacobdev03
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming and Cybersecurity
 - 🌱 I’m currently learning React.js
 
 <!---
