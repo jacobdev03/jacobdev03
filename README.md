@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jacobdev03
-- 👀 I’m interested in Programming and Cybersecurity
-- 🌱 I’m currently learning React.js
+- 👋 Hi, I’m Jacob
 
 <!---
 jacobdev03/jacobdev03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
