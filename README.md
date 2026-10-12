@@ -1,7 +1,6 @@
 # Hi, I'm Jakub
 
 I build web applications and AI tools with TypeScript, React, Next.js and Python.
-My projects focus on turning documents and data into useful, interactive applications.
 
 ## Featured project
 
